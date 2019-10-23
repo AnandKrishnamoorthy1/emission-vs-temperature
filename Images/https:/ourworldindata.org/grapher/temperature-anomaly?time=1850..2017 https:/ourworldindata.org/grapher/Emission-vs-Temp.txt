@@ -1,5 +1,0 @@
-Region: Global
-Category: Human pollution, Climate change
-
-The chart attached shows the median temperature rise from the year 1985. The dashed blue line represent the median average temperature change across the globe, and grey lines represent the upper and lower 95% confidence intervals. The region between the upper and lower 95% confidence intervals are shaded to provide better clarity to the image. The red dotted lines shows the human carbon dioxide emission for the same duration.
-There has been a steady increase in the carbon dioxide emissions. So as postulated by scientists all over the world, the increase in global temperature could indeed have been due to the increase in carbon dioxide emissions.
