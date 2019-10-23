@@ -1,0 +1,2 @@
+https://ourworldindata.org/grapher/temperature-anomaly?time=1850..2017
+https://ourworldindata.org/grapher/cumulative-co-emissions?tab=chart&time=1751..2016
